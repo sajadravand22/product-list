@@ -239,65 +239,6 @@
       "id": 40,
       "img": "/Images/pic1.jpg",
       "price": 2000
-    },
-    {
-      "title": "t-shirt 41",
-      "id": 41,
-      "img": "/Images/pic1.jpg",
-      "price": 2100
-    },
-    {
-      "title": "t-shirt 42",
-      "id": 42,
-      "img": "/Images/pic1.jpg",
-      "price": 1600
-    },
-    {
-      "title": "t-shirt 43",
-      "id": 43,
-      "img": "/Images/pic1.jpg",
-      "price": 1900
-    },
-    {
-      "title": "t-shirt 44",
-      "id": 44,
-      "img": "/Images/pic1.jpg",
-      "price": 1750
-    },
-    {
-      "title": "t-shirt 45",
-      "id": 45,
-      "img": "/Images/pic1.jpg",
-      "price": 1600
-    },
-    {
-      "title": "t-shirt 46",
-      "id": 46,
-      "img": "/Images/pic1.jpg",
-      "price": 1500
-    },
-    {
-      "title": "t-shirt 47",
-      "id": 47,
-      "img": "/Images/pic1.jpg",
-      "price": 1400
-    },
-    {
-      "title": "t-shirt 48",
-      "id": 48,
-      "img": "/Images/pic1.jpg",
-      "price": 1550
-    },
-    {
-      "title": "t-shirt 49",
-      "id": 49,
-      "img": "/Images/pic1.jpg",
-      "price": 1650
-    },
-    {
-      "title": "t-shirt 50",
-      "id": 50,
-      "img": "/Images/pic1.jpg",
-      "price": 1330
-    }]
+    }
+  ]
 }
